@@ -61,5 +61,7 @@ It provided practical experience in data preprocessing, exploratory data analysi
 10. Internship
 
 Organization: Oasis Infobyte
+
 Domain: Data Science
+
 Task: Iris Flower Classification
